@@ -18,6 +18,14 @@ h3 {
 
 .thumbnail {
   height: 350px;
+  width: 300px;
+  border-radius: 19px;
+}
+
+.column {
+  float: left;
+  width: 25%;
+  padding: 10px 10px;
 }
 
 .topnav {
@@ -53,4 +61,15 @@ h3 {
   height: 100%;
   width: 100%;
   padding: 6px 9px;
+}
+
+.card {
+  border-radius: 19px;
+  padding: 15px;
+  text-align: center;
+  background-color: #151f30;
+}
+.card img {
+  width: -moz-fit-content;
+  width: fit-content;
 }/*# sourceMappingURL=style.css.map */
